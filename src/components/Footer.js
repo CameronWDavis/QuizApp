@@ -1,6 +1,5 @@
-function Footer({ children})
-{
-    return();
+function Footer({ children }) {
+  return <footer>{children}</footer>;
 }
 
-export default Footer
+export default Footer;
